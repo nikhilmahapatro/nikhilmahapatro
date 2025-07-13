@@ -1,48 +1,51 @@
 # Hi, I'm Nikhil 👋
 
-I'm a developer-in-progress focused on Full Stack Web Development and Applied Data Science.  
-Currently exploring how real-world problems can be solved using code — from clean UIs to intelligent ML models.
+I'm a developer working at the intersection of **Applied Data Science, AI/ML, Generative AI**, and emerging **Agentic AI systems**.
+
+My focus is simple: solve real-world problems using structured thinking, clean code, and scalable models — whether it’s automating analysis, predicting outcomes, or building intelligent agents.
 
 ---
 
-## 🚀 Tech I'm Working With
+## 🧠 Domains I Work In
 
-- **Frontend**: HTML, CSS, JavaScript, React, Bootstrap  
-- **Backend**: Node.js, Express, MongoDB, REST APIs  
-- **Data/ML**: Python, Pandas, NumPy, Scikit-learn, Matplotlib  
-- **Tools**: Git, GitHub, VS Code, Postman  
+- Applied Machine Learning  
+- Exploratory Data Analysis (EDA) Automation  
+- Generative AI (LLMs, Prompt Chaining)  
+- Agentic AI (task-oriented autonomous flows)  
+- ML Model Evaluation & Optimization  
+- Python-based ML pipelines and tooling
 
 ---
 
 ## 🔨 Projects That Reflect My Work
 
 ### 🔹 EDA Automation (Coming Soon)
-A Python-based tool that automates exploratory data analysis — generates summary stats, correlation maps, and plots in one go. Built to save time and bring structure to messy data.
+A Python-based system that generates data profiling, visual analysis, and correlation maps — instantly. Think of it as one-click EDA.
 
 ### 🔹 E-Vacc (Coming Soon)
-A full-stack app prototype for vaccine appointment booking. Built with the MERN stack, includes form validation, MongoDB integration, and basic user flow.
+An AI-driven backend concept for managing vaccine bookings and routing using rule-based logic and prediction for slot allocation.
 
 ### 🔹 House Pricing Prediction (Coming Soon)
-An end-to-end ML pipeline for predicting housing prices. Includes data cleaning, feature engineering, model training, and evaluation using scikit-learn.
+Regression-based modeling project that includes feature engineering, pipeline building, and real-world interpretability checks.
 
 ---
 
 ## 📚 Learning Repos
 
-### 📁 [Ethnus_MERN_FullStack](https://github.com/nikhilmahapatro/Ethnus_MERN_FullStack)  
-A collection of MERN stack tasks covering React UI, backend APIs, MongoDB ops, and full-stack integration.
-
 ### 📁 [FullStack_DataScience_-_GenAI](https://github.com/nikhilmahapatro/FullStack_DataScience_-_GenAI)  
-Step-by-step data science practice — linear regression, model metrics, matplotlib/seaborn visualizations, and scikit-learn fundamentals.
+A collection of structured notebooks covering the foundations of regression, model performance metrics, Python ML tooling, and exploratory workflows.
+
+### 📁 [Ethnus_MERN_FullStack](https://github.com/nikhilmahapatro/Ethnus_MERN_FullStack)  
+Primarily used for frontend/backend structure understanding. Helpful context during early-phase integration tasks.
 
 ---
 
 ## 🎯 Currently
 
-- Polishing my full-stack and ML projects
-- Practicing clean architecture and component design in React
-- Exploring model interpretability and better UX in web apps
-- Open to internships, mentorship, and hands-on opportunities
+- Working on agent-based automation systems using LLMs  
+- Refining my EDA + ML workflow tools into usable utilities  
+- Exploring ways to combine classical ML with generative capabilities  
+- Building focused, clean projects — not bloated portfolios
 
 ---
 
@@ -54,4 +57,4 @@ Step-by-step data science practice — linear regression, model metrics, matplot
 
 ---
 
-> I'm not trying to master 100 tools. I'm focused on writing clean code, solving real problems, and learning deeply.
+> I'm not here to chase buzzwords. I'm here to build systems that work.
