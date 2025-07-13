@@ -19,13 +19,13 @@ My focus is simple: solve real-world problems using structured thinking, clean c
 
 ## 🔨 Projects That Reflect My Work
 
-### 🔹 EDA Automation (Coming Soon)
+### 🔹 EDA Automation 
 A Python-based system that generates data profiling, visual analysis, and correlation maps — instantly. Think of it as one-click EDA.
 
-### 🔹 E-Vacc (Coming Soon)
+### 🔹 E-Vacc 
 An AI-driven backend concept for managing vaccine bookings and routing using rule-based logic and prediction for slot allocation.
 
-### 🔹 House Pricing Prediction (Coming Soon)
+### 🔹 House Pricing Prediction 
 Regression-based modeling project that includes feature engineering, pipeline building, and real-world interpretability checks.
 
 ---
