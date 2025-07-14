@@ -19,13 +19,16 @@ My focus is simple: solve real-world problems using structured thinking, clean c
 
 ## 🔨 Projects That Reflect My Work
 
-### 🔹 EDA Automation 
+### 🔹 EDA Automation  
 A Python-based system that generates data profiling, visual analysis, and correlation maps — instantly. Think of it as one-click EDA.
 
-### 🔹 E-Vacc 
+### 🔹 Pixel Whisperer  
+A lightweight GenAI tool built using Google's Gemini models. Upload a `.jpg` image and it returns a natural-language description. Built with Gradio for quick visual demos.  
+
+### 🔹 E-Vacc  
 An AI-driven backend concept for managing vaccine bookings and routing using rule-based logic and prediction for slot allocation.
 
-### 🔹 House Pricing Prediction 
+### 🔹 House Pricing Prediction  
 Regression-based modeling project that includes feature engineering, pipeline building, and real-world interpretability checks.
 
 ---
