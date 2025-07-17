@@ -2,7 +2,7 @@
 
 I'm a developer working at the intersection of **Applied Data Science, AI/ML, Generative AI**, and emerging **Agentic AI systems**.
 
-My focus is simple: solve real-world problems using structured thinking, clean code, and scalable models — whether it’s automating analysis, predicting outcomes, or building intelligent agents.
+My focus is simple: solve real-world problems using structured thinking, clean code, and scalable models whether it’s automating analysis, predicting outcomes, or building intelligent agents.
 
 ---
 
