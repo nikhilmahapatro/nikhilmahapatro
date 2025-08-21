@@ -10,26 +10,26 @@ My focus is simple: solve real-world problems using structured thinking, clean c
 
 - Applied Machine Learning  
 - Exploratory Data Analysis (EDA) Automation  
+- Natural Language Processing (Summarization, Text Processing)  
 - Generative AI (LLMs, Prompt Chaining)  
 - Agentic AI (task-oriented autonomous flows)  
-- ML Model Evaluation & Optimization  
 - Python-based ML pipelines and tooling
 
 ---
 
 ## 🔨 Projects That Reflect My Work
 
-### 🔹 EDA Automation  
-A Python-based system that generates data profiling, visual analysis, and correlation maps — instantly. Think of it as one-click EDA.
+### 🔹 [WordSqueeze (NLP Summarizer)](https://github.com/nikhilmahapatro/WordSqueeze_-NLP)  
+An extractive text summarizer built with NLTK and Streamlit. Lets users condense articles into 20–90% summaries or fixed-length outputs, with a clean interactive UI.  
 
-### 🔹 Pixel Whisperer  
-A lightweight GenAI tool built using Google's Gemini models. Upload a `.jpg` image and it returns a natural-language description. Built with Gradio for quick visual demos.  
+### 🔹 [EDA Automation](https://github.com/nikhilmahapatro/EDA-Automation)  
+A Python-based system that generates data profiling, visual analysis, and correlation maps — instantly. Think of it as one-click EDA.  
 
-### 🔹 E-Vacc  
-An AI-driven backend concept for managing vaccine bookings and routing using rule-based logic and prediction for slot allocation.
+### 🔹 [Housing Price Predictor](https://github.com/nikhilmahapatro/Housing_Price_Predictor_-MLRegressions)
+Regression-based modeling project that includes feature engineering, pipeline building, and real-world interpretability checks.  
 
-### 🔹 House Pricing Prediction  
-Regression-based modeling project that includes feature engineering, pipeline building, and real-world interpretability checks.
+### 🔹 [Pixel Whisperer](https://github.com/nikhilmahapatro/Pixel_Whisperer_-GenAI)
+A lightweight GenAI tool built using Google's Gemini models. Upload a `.jpg` image and it returns a natural-language description. Built with Gradio for quick demos.  
 
 ---
 
